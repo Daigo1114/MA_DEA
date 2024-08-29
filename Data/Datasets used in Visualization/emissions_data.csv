@@ -1,0 +1,216 @@
+Order ID,Stage,GHG Type,Source,Amount,Scope
+3b697a20d9e427646d92567910af6d57,1. Deal With Orders,co2,equipment,4.657815632847289,scope2
+3b697a20d9e427646d92567910af6d57,1. Deal With Orders,co2,electricity,16.265932298201808,scope2
+3b697a20d9e427646d92567910af6d57,1. Deal With Orders,ch4,equipment,0.31883435272,scope2
+3b697a20d9e427646d92567910af6d57,1. Deal With Orders,ch4,electricity,1.1134270663508996,scope2
+3b697a20d9e427646d92567910af6d57,1. Deal With Orders,n2o,equipment,0.042511247029333336,scope2
+3b697a20d9e427646d92567910af6d57,1. Deal With Orders,n2o,electricity,0.14845694218011996,scope2
+3b697a20d9e427646d92567910af6d57,2. Communicate With Warehouse,co2,equipment,0.004969856346666667,scope2
+3b697a20d9e427646d92567910af6d57,2. Communicate With Warehouse,co2,electricity,0.017355634752175036,scope2
+3b697a20d9e427646d92567910af6d57,2. Communicate With Warehouse,ch4,equipment,0.00034019399999999993,scope2
+3b697a20d9e427646d92567910af6d57,2. Communicate With Warehouse,ch4,electricity,0.0011880188071917808,scope2
+3b697a20d9e427646d92567910af6d57,2. Communicate With Warehouse,n2o,equipment,4.53592e-05,scope2
+3b697a20d9e427646d92567910af6d57,2. Communicate With Warehouse,n2o,electricity,0.00015840250762557076,scope2
+3b697a20d9e427646d92567910af6d57,3. Pack Orders,co2,equipment,3.414655766292089,scope2
+3b697a20d9e427646d92567910af6d57,3. Pack Orders,co2,electricity,11.924593821292744,scope2
+3b697a20d9e427646d92567910af6d57,3. Pack Orders,ch4,equipment,0.23373822555999998,scope2
+3b697a20d9e427646d92567910af6d57,3. Pack Orders,ch4,electricity,0.8162560419199475,scope2
+3b697a20d9e427646d92567910af6d57,3. Pack Orders,n2o,equipment,0.031165096741333335,scope2
+3b697a20d9e427646d92567910af6d57,3. Pack Orders,n2o,electricity,0.10883413892265967,scope2
+3b697a20d9e427646d92567910af6d57,4. Prepare to Send Orders,co2,equipment,20.804762939852537,scope2
+3b697a20d9e427646d92567910af6d57,4. Prepare to Send Orders,co2,electricity,72.65398464320762,scope2
+3b697a20d9e427646d92567910af6d57,4. Prepare to Send Orders,ch4,equipment,1.42411672086,scope2
+3b697a20d9e427646d92567910af6d57,4. Prepare to Send Orders,ch4,electricity,4.973272450478161,scope2
+3b697a20d9e427646d92567910af6d57,4. Prepare to Send Orders,n2o,equipment,0.189882229448,scope2
+3b697a20d9e427646d92567910af6d57,4. Prepare to Send Orders,n2o,electricity,0.6631029933970882,scope2
+3b697a20d9e427646d92567910af6d57,5. Deliver Orders,co2,equipment,4.293955883520001,scope2
+3b697a20d9e427646d92567910af6d57,5. Deliver Orders,co2,electricity,14.995268425879232,scope2
+3b697a20d9e427646d92567910af6d57,5. Deliver Orders,ch4,equipment,0.29392761599999995,scope2
+3b697a20d9e427646d92567910af6d57,5. Deliver Orders,ch4,electricity,1.0264482494136986,scope2
+3b697a20d9e427646d92567910af6d57,5. Deliver Orders,n2o,equipment,0.039190348800000004,scope2
+3b697a20d9e427646d92567910af6d57,5. Deliver Orders,n2o,electricity,0.13685976658849314,scope2
+3b697a20d9e427646d92567910af6d57,6. Close Orders,co2,equipment,6.191480169052978,scope2
+3b697a20d9e427646d92567910af6d57,6. Close Orders,co2,electricity,21.621765478491344,scope2
+3b697a20d9e427646d92567910af6d57,6. Close Orders,ch4,equipment,0.42381595316,scope2
+3b697a20d9e427646d92567910af6d57,6. Close Orders,ch4,electricity,1.480041750124902,scope2
+3b697a20d9e427646d92567910af6d57,6. Close Orders,n2o,equipment,0.05650879375466667,scope2
+3b697a20d9e427646d92567910af6d57,6. Close Orders,n2o,electricity,0.19733890001665358,scope2
+3b697a20d9e427646d92567910af6d57,commuting,co2,total,182.68358457504317,scope3
+3b697a20d9e427646d92567910af6d57,commuting,ch4,total,5.219530987858377,scope3
+3b697a20d9e427646d92567910af6d57,commuting,n2o,total,3.131718592715026,scope3
+3b697a20d9e427646d92567910af6d57,waste,co2,total,0.24412396589449784,scope3
+3b697a20d9e427646d92567910af6d57,delivery,co2,total,0.07336477047325944,scope3
+3b697a20d9e427646d92567910af6d57,delivery,ch4,total,0.6550425935112449,scope3
+3b697a20d9e427646d92567910af6d57,delivery,n2o,total,2.0524667930019005,scope3
+be5bc2f0da14d8071e2d45451ad119d9,1. Deal With Orders,co2,equipment,4.2411760091184,scope2
+be5bc2f0da14d8071e2d45451ad119d9,1. Deal With Orders,co2,electricity,14.810951584811132,scope2
+be5bc2f0da14d8071e2d45451ad119d9,1. Deal With Orders,ch4,equipment,0.29031475571999993,scope2
+be5bc2f0da14d8071e2d45451ad119d9,1. Deal With Orders,ch4,electricity,1.0138314896813219,scope2
+be5bc2f0da14d8071e2d45451ad119d9,1. Deal With Orders,n2o,equipment,0.038708634096,scope2
+be5bc2f0da14d8071e2d45451ad119d9,1. Deal With Orders,n2o,electricity,0.1351775319575096,scope2
+be5bc2f0da14d8071e2d45451ad119d9,2. Communicate With Warehouse,co2,equipment,0.017891482848,scope2
+be5bc2f0da14d8071e2d45451ad119d9,2. Communicate With Warehouse,co2,electricity,0.06248028510783013,scope2
+be5bc2f0da14d8071e2d45451ad119d9,2. Communicate With Warehouse,ch4,equipment,0.0012246984,scope2
+be5bc2f0da14d8071e2d45451ad119d9,2. Communicate With Warehouse,ch4,electricity,0.0042768677058904105,scope2
+be5bc2f0da14d8071e2d45451ad119d9,2. Communicate With Warehouse,n2o,equipment,0.00016329312,scope2
+be5bc2f0da14d8071e2d45451ad119d9,2. Communicate With Warehouse,n2o,electricity,0.0005702490274520547,scope2
+be5bc2f0da14d8071e2d45451ad119d9,3. Pack Orders,co2,equipment,12.150155700640267,scope2
+be5bc2f0da14d8071e2d45451ad119d9,3. Pack Orders,co2,electricity,42.430535173074965,scope2
+be5bc2f0da14d8071e2d45451ad119d9,3. Pack Orders,ch4,equipment,0.8316960853799998,scope2
+be5bc2f0da14d8071e2d45451ad119d9,3. Pack Orders,ch4,electricity,2.90443273925825,scope2
+be5bc2f0da14d8071e2d45451ad119d9,3. Pack Orders,n2o,equipment,0.11089281138399999,scope2
+be5bc2f0da14d8071e2d45451ad119d9,3. Pack Orders,n2o,electricity,0.38725769856776665,scope2
+be5bc2f0da14d8071e2d45451ad119d9,4. Prepare to Send Orders,co2,equipment,9.33158450456738,scope2
+be5bc2f0da14d8071e2d45451ad119d9,4. Prepare to Send Orders,co2,electricity,32.5875761839581,scope2
+be5bc2f0da14d8071e2d45451ad119d9,4. Prepare to Send Orders,ch4,equipment,0.63876072818,scope2
+be5bc2f0da14d8071e2d45451ad119d9,4. Prepare to Send Orders,ch4,electricity,2.230667673072885,scope2
+be5bc2f0da14d8071e2d45451ad119d9,4. Prepare to Send Orders,n2o,equipment,0.08516809709066668,scope2
+be5bc2f0da14d8071e2d45451ad119d9,4. Prepare to Send Orders,n2o,electricity,0.297422356409718,scope2
+be5bc2f0da14d8071e2d45451ad119d9,5. Deliver Orders,co2,equipment,8.693140192086757,scope2
+be5bc2f0da14d8071e2d45451ad119d9,5. Deliver Orders,co2,electricity,30.358013491577854,scope2
+be5bc2f0da14d8071e2d45451ad119d9,5. Deliver Orders,ch4,equipment,0.59505827296,scope2
+be5bc2f0da14d8071e2d45451ad119d9,5. Deliver Orders,ch4,electricity,2.078050817038338,scope2
+be5bc2f0da14d8071e2d45451ad119d9,5. Deliver Orders,n2o,equipment,0.07934110306133334,scope2
+be5bc2f0da14d8071e2d45451ad119d9,5. Deliver Orders,n2o,electricity,0.2770734422717784,scope2
+be5bc2f0da14d8071e2d45451ad119d9,6. Close Orders,co2,equipment,2.473249010918667,scope2
+be5bc2f0da14d8071e2d45451ad119d9,6. Close Orders,co2,electricity,8.637031634419907,scope2
+be5bc2f0da14d8071e2d45451ad119d9,6. Close Orders,ch4,equipment,0.16929754409999997,scope2
+be5bc2f0da14d8071e2d45451ad119d9,6. Close Orders,ch4,electricity,0.5912175593989897,scope2
+be5bc2f0da14d8071e2d45451ad119d9,6. Close Orders,n2o,equipment,0.02257300588,scope2
+be5bc2f0da14d8071e2d45451ad119d9,6. Close Orders,n2o,electricity,0.0788290079198653,scope2
+be5bc2f0da14d8071e2d45451ad119d9,commuting,co2,total,176.1591708402202,scope3
+be5bc2f0da14d8071e2d45451ad119d9,commuting,ch4,total,5.033119166863434,scope3
+be5bc2f0da14d8071e2d45451ad119d9,commuting,n2o,total,3.019871500118061,scope3
+be5bc2f0da14d8071e2d45451ad119d9,waste,co2,total,0.24412396589449784,scope3
+be5bc2f0da14d8071e2d45451ad119d9,delivery,co2,total,0.10534767422007467,scope3
+be5bc2f0da14d8071e2d45451ad119d9,delivery,ch4,total,0.9406042341078096,scope3
+be5bc2f0da14d8071e2d45451ad119d9,delivery,n2o,total,2.94722660020447,scope3
+65d1e226dfaeb8cdc42f665422522d14,1. Deal With Orders,co2,equipment,0.7924601606638223,scope2
+65d1e226dfaeb8cdc42f665422522d14,1. Deal With Orders,co2,electricity,2.7674138133501507,scope2
+65d1e226dfaeb8cdc42f665422522d14,1. Deal With Orders,ch4,equipment,0.054245067279999996,scope2
+65d1e226dfaeb8cdc42f665422522d14,1. Deal With Orders,ch4,electricity,0.1894335588694201,scope2
+65d1e226dfaeb8cdc42f665422522d14,1. Deal With Orders,n2o,equipment,0.007232675637333334,scope2
+65d1e226dfaeb8cdc42f665422522d14,1. Deal With Orders,n2o,electricity,0.025257807849256013,scope2
+65d1e226dfaeb8cdc42f665422522d14,2. Communicate With Warehouse,co2,equipment,0.016897511578666667,scope2
+65d1e226dfaeb8cdc42f665422522d14,2. Communicate With Warehouse,co2,electricity,0.059009158157395124,scope2
+65d1e226dfaeb8cdc42f665422522d14,2. Communicate With Warehouse,ch4,equipment,0.0011566596,scope2
+65d1e226dfaeb8cdc42f665422522d14,2. Communicate With Warehouse,ch4,electricity,0.004039263944452054,scope2
+65d1e226dfaeb8cdc42f665422522d14,2. Communicate With Warehouse,n2o,equipment,0.00015422128,scope2
+65d1e226dfaeb8cdc42f665422522d14,2. Communicate With Warehouse,n2o,electricity,0.0005385685259269406,scope2
+65d1e226dfaeb8cdc42f665422522d14,3. Pack Orders,co2,equipment,4.2469079101048886,scope2
+65d1e226dfaeb8cdc42f665422522d14,3. Pack Orders,co2,electricity,14.830968416891976,scope2
+65d1e226dfaeb8cdc42f665422522d14,3. Pack Orders,ch4,equipment,0.29070711279999994,scope2
+65d1e226dfaeb8cdc42f665422522d14,3. Pack Orders,ch4,electricity,1.0152016713722831,scope2
+65d1e226dfaeb8cdc42f665422522d14,3. Pack Orders,n2o,equipment,0.03876094837333333,scope2
+65d1e226dfaeb8cdc42f665422522d14,3. Pack Orders,n2o,electricity,0.13536022284963775,scope2
+65d1e226dfaeb8cdc42f665422522d14,4. Prepare to Send Orders,co2,equipment,25.90870601075227,scope2
+65d1e226dfaeb8cdc42f665422522d14,4. Prepare to Send Orders,co2,electricity,90.47787442099634,scope2
+65d1e226dfaeb8cdc42f665422522d14,4. Prepare to Send Orders,ch4,equipment,1.7734891549799998,scope2
+65d1e226dfaeb8cdc42f665422522d14,4. Prepare to Send Orders,ch4,electricity,6.193344005087976,scope2
+65d1e226dfaeb8cdc42f665422522d14,4. Prepare to Send Orders,n2o,equipment,0.23646522066400003,scope2
+65d1e226dfaeb8cdc42f665422522d14,4. Prepare to Send Orders,n2o,electricity,0.8257792006783967,scope2
+65d1e226dfaeb8cdc42f665422522d14,5. Deliver Orders,co2,equipment,19.9630183704176,scope2
+65d1e226dfaeb8cdc42f665422522d14,5. Deliver Orders,co2,electricity,69.71446078523174,scope2
+65d1e226dfaeb8cdc42f665422522d14,5. Deliver Orders,ch4,equipment,1.3664980630799999,scope2
+65d1e226dfaeb8cdc42f665422522d14,5. Deliver Orders,ch4,electricity,4.772057705104089,scope2
+65d1e226dfaeb8cdc42f665422522d14,5. Deliver Orders,n2o,equipment,0.18219974174400003,scope2
+65d1e226dfaeb8cdc42f665422522d14,5. Deliver Orders,n2o,electricity,0.6362743606805452,scope2
+65d1e226dfaeb8cdc42f665422522d14,6. Close Orders,co2,equipment,2.0566590857532447,scope2
+65d1e226dfaeb8cdc42f665422522d14,6. Close Orders,co2,electricity,7.182224477376756,scope2
+65d1e226dfaeb8cdc42f665422522d14,6. Close Orders,ch4,equipment,0.14078134904,scope2
+65d1e226dfaeb8cdc42f665422522d14,6. Close Orders,ch4,electricity,0.491633862917484,scope2
+65d1e226dfaeb8cdc42f665422522d14,6. Close Orders,n2o,equipment,0.018770846538666668,scope2
+65d1e226dfaeb8cdc42f665422522d14,6. Close Orders,n2o,electricity,0.06555118172233121,scope2
+65d1e226dfaeb8cdc42f665422522d14,commuting,co2,total,247.92772192327288,scope3
+65d1e226dfaeb8cdc42f665422522d14,commuting,ch4,total,7.083649197807797,scope3
+65d1e226dfaeb8cdc42f665422522d14,commuting,n2o,total,4.250189518684678,scope3
+65d1e226dfaeb8cdc42f665422522d14,waste,co2,total,0.20038602931044938,scope3
+65d1e226dfaeb8cdc42f665422522d14,delivery,co2,total,0.04099518580619321,scope3
+65d1e226dfaeb8cdc42f665422522d14,delivery,ch4,total,0.36602844469815377,scope3
+65d1e226dfaeb8cdc42f665422522d14,delivery,n2o,total,1.1468891267208818,scope3
+a41c8759fbe7aab36ea07e038b2d4465,1. Deal With Orders,co2,equipment,1.7873757027030224,scope2
+a41c8759fbe7aab36ea07e038b2d4465,1. Deal With Orders,co2,electricity,6.2418383343880715,scope2
+a41c8759fbe7aab36ea07e038b2d4465,1. Deal With Orders,ch4,equipment,0.12234850414,scope2
+a41c8759fbe7aab36ea07e038b2d4465,1. Deal With Orders,ch4,electricity,0.42726304388114267,scope2
+a41c8759fbe7aab36ea07e038b2d4465,1. Deal With Orders,n2o,equipment,0.016313133885333335,scope2
+a41c8759fbe7aab36ea07e038b2d4465,1. Deal With Orders,n2o,electricity,0.056968405850819026,scope2
+a41c8759fbe7aab36ea07e038b2d4465,2. Communicate With Warehouse,co2,equipment,0.023855310464000003,scope2
+a41c8759fbe7aab36ea07e038b2d4465,2. Communicate With Warehouse,co2,electricity,0.08330704681044018,scope2
+a41c8759fbe7aab36ea07e038b2d4465,2. Communicate With Warehouse,ch4,equipment,0.0016329311999999999,scope2
+a41c8759fbe7aab36ea07e038b2d4465,2. Communicate With Warehouse,ch4,electricity,0.005702490274520548,scope2
+a41c8759fbe7aab36ea07e038b2d4465,2. Communicate With Warehouse,n2o,equipment,0.00021772416000000002,scope2
+a41c8759fbe7aab36ea07e038b2d4465,2. Communicate With Warehouse,n2o,electricity,0.0007603320366027397,scope2
+a41c8759fbe7aab36ea07e038b2d4465,3. Pack Orders,co2,equipment,28.014086254890668,scope2
+a41c8759fbe7aab36ea07e038b2d4465,3. Pack Orders,co2,electricity,97.83024197106026,scope2
+a41c8759fbe7aab36ea07e038b2d4465,3. Pack Orders,ch4,equipment,1.9176055392,scope2
+a41c8759fbe7aab36ea07e038b2d4465,3. Pack Orders,ch4,electricity,6.69662441237863,scope2
+a41c8759fbe7aab36ea07e038b2d4465,3. Pack Orders,n2o,equipment,0.25568073856,scope2
+a41c8759fbe7aab36ea07e038b2d4465,3. Pack Orders,n2o,electricity,0.8928832549838174,scope2
+a41c8759fbe7aab36ea07e038b2d4465,4. Prepare to Send Orders,co2,equipment,1.111425540992889,scope2
+a41c8759fbe7aab36ea07e038b2d4465,4. Prepare to Send Orders,co2,electricity,3.881298451744745,scope2
+a41c8759fbe7aab36ea07e038b2d4465,4. Prepare to Send Orders,ch4,equipment,0.0760787182,scope2
+a41c8759fbe7aab36ea07e038b2d4465,4. Prepare to Send Orders,ch4,electricity,0.2656806059149886,scope2
+a41c8759fbe7aab36ea07e038b2d4465,4. Prepare to Send Orders,n2o,equipment,0.010143829093333334,scope2
+a41c8759fbe7aab36ea07e038b2d4465,4. Prepare to Send Orders,n2o,electricity,0.03542408078866515,scope2
+a41c8759fbe7aab36ea07e038b2d4465,5. Deliver Orders,co2,equipment,12.822361903902578,scope2
+a41c8759fbe7aab36ea07e038b2d4465,5. Deliver Orders,co2,electricity,44.77800047753832,scope2
+a41c8759fbe7aab36ea07e038b2d4465,5. Deliver Orders,ch4,equipment,0.87770959184,scope2
+a41c8759fbe7aab36ea07e038b2d4465,5. Deliver Orders,ch4,electricity,3.0651202030563196,scope2
+a41c8759fbe7aab36ea07e038b2d4465,5. Deliver Orders,n2o,equipment,0.11702794557866668,scope2
+a41c8759fbe7aab36ea07e038b2d4465,5. Deliver Orders,n2o,electricity,0.40868269374084265,scope2
+a41c8759fbe7aab36ea07e038b2d4465,6. Close Orders,co2,equipment,2.2057879085288894,scope2
+a41c8759fbe7aab36ea07e038b2d4465,6. Close Orders,co2,electricity,7.703009224173688,scope2
+a41c8759fbe7aab36ea07e038b2d4465,6. Close Orders,ch4,equipment,0.150989437,scope2
+a41c8759fbe7aab36ea07e038b2d4465,6. Close Orders,ch4,electricity,0.5272823472586188,scope2
+a41c8759fbe7aab36ea07e038b2d4465,6. Close Orders,n2o,equipment,0.020131924933333337,scope2
+a41c8759fbe7aab36ea07e038b2d4465,6. Close Orders,n2o,electricity,0.07030431296781584,scope2
+a41c8759fbe7aab36ea07e038b2d4465,commuting,co2,total,215.305653249158,scope3
+a41c8759fbe7aab36ea07e038b2d4465,commuting,ch4,total,6.151590092833087,scope3
+a41c8759fbe7aab36ea07e038b2d4465,commuting,n2o,total,3.6909540556998524,scope3
+a41c8759fbe7aab36ea07e038b2d4465,waste,co2,total,0.25204561362897315,scope3
+a41c8759fbe7aab36ea07e038b2d4465,delivery,co2,total,0.13655149601242056,scope3
+a41c8759fbe7aab36ea07e038b2d4465,delivery,ch4,total,1.2192097858251838,scope3
+a41c8759fbe7aab36ea07e038b2d4465,delivery,n2o,total,3.820190662252242,scope3
+d207cc272675637bfed0062edffd0818,1. Deal With Orders,co2,equipment,0.7375929465966223,scope2
+d207cc272675637bfed0062edffd0818,1. Deal With Orders,co2,electricity,2.575807605686138,scope2
+d207cc272675637bfed0062edffd0818,1. Deal With Orders,ch4,equipment,0.050489325519999996,scope2
+d207cc272675637bfed0062edffd0818,1. Deal With Orders,ch4,electricity,0.17631783123802283,scope2
+d207cc272675637bfed0062edffd0818,1. Deal With Orders,n2o,equipment,0.006731910069333334,scope2
+d207cc272675637bfed0062edffd0818,1. Deal With Orders,n2o,electricity,0.02350904416506971,scope2
+d207cc272675637bfed0062edffd0818,2. Communicate With Warehouse,co2,equipment,0.02584325300266667,scope2
+d207cc272675637bfed0062edffd0818,2. Communicate With Warehouse,co2,electricity,0.09024930071131021,scope2
+d207cc272675637bfed0062edffd0818,2. Communicate With Warehouse,ch4,equipment,0.0017690088,scope2
+d207cc272675637bfed0062edffd0818,2. Communicate With Warehouse,ch4,electricity,0.00617769779739726,scope2
+d207cc272675637bfed0062edffd0818,2. Communicate With Warehouse,n2o,equipment,0.00023586784000000001,scope2
+d207cc272675637bfed0062edffd0818,2. Communicate With Warehouse,n2o,electricity,0.0008236930396529681,scope2
+d207cc272675637bfed0062edffd0818,3. Pack Orders,co2,equipment,3.3184724797962666,scope2
+d207cc272675637bfed0062edffd0818,3. Pack Orders,co2,electricity,11.588704436722317,scope2
+d207cc272675637bfed0062edffd0818,3. Pack Orders,ch4,equipment,0.22715433767999996,scope2
+d207cc272675637bfed0062edffd0818,3. Pack Orders,ch4,electricity,0.7932639179380959,scope2
+d207cc272675637bfed0062edffd0818,3. Pack Orders,n2o,equipment,0.030287245024,scope2
+d207cc272675637bfed0062edffd0818,3. Pack Orders,n2o,electricity,0.10576852239174613,scope2
+d207cc272675637bfed0062edffd0818,4. Prepare to Send Orders,co2,equipment,21.22218117440907,scope2
+d207cc272675637bfed0062edffd0818,4. Prepare to Send Orders,co2,electricity,74.11168440604281,scope2
+d207cc272675637bfed0062edffd0818,4. Prepare to Send Orders,ch4,equipment,1.45268961492,scope2
+d207cc272675637bfed0062edffd0818,4. Prepare to Send Orders,ch4,electricity,5.073054150094199,scope2
+d207cc272675637bfed0062edffd0818,4. Prepare to Send Orders,n2o,equipment,0.19369194865600003,scope2
+d207cc272675637bfed0062edffd0818,4. Prepare to Send Orders,n2o,electricity,0.6764072200125599,scope2
+d207cc272675637bfed0062edffd0818,5. Deliver Orders,co2,equipment,14.118450740549779,scope2
+d207cc272675637bfed0062edffd0818,5. Deliver Orders,co2,electricity,49.30417646455805,scope2
+d207cc272675637bfed0062edffd0818,5. Deliver Orders,ch4,equipment,0.9664287850999999,scope2
+d207cc272675637bfed0062edffd0818,5. Deliver Orders,ch4,electricity,3.374943627783864,scope2
+d207cc272675637bfed0062edffd0818,5. Deliver Orders,n2o,equipment,0.12885717134666666,scope2
+d207cc272675637bfed0062edffd0818,5. Deliver Orders,n2o,electricity,0.44999248370451517,scope2
+d207cc272675637bfed0062edffd0818,6. Close Orders,co2,equipment,3.2157952476741336,scope2
+d207cc272675637bfed0062edffd0818,6. Close Orders,co2,electricity,11.230137022742381,scope2
+d207cc272675637bfed0062edffd0818,6. Close Orders,ch4,equipment,0.22012592964,scope2
+d207cc272675637bfed0062edffd0818,6. Close Orders,ch4,electricity,0.7687194493815137,scope2
+d207cc272675637bfed0062edffd0818,6. Close Orders,n2o,equipment,0.029350123952000002,scope2
+d207cc272675637bfed0062edffd0818,6. Close Orders,n2o,electricity,0.10249592658420183,scope2
+d207cc272675637bfed0062edffd0818,commuting,co2,total,202.2568257795121,scope3
+d207cc272675637bfed0062edffd0818,commuting,ch4,total,5.778766450843203,scope3
+d207cc272675637bfed0062edffd0818,commuting,n2o,total,3.467259870505922,scope3
+d207cc272675637bfed0062edffd0818,waste,co2,total,0.8676278818543077,scope3
+d207cc272675637bfed0062edffd0818,delivery,co2,total,0.0928144974072246,scope3
+d207cc272675637bfed0062edffd0818,delivery,ch4,total,0.8287008697073627,scope3
+d207cc272675637bfed0062edffd0818,delivery,n2o,total,2.5965960584164027,scope3

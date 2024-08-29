@@ -1,0 +1,17 @@
+Task Question,Question Content,Correct,Incorrect
+Question 5,"5. From the Simulation Control Panel located in the bottom right corner, you can activate the dynamic bar chart by clicking on the  ➤ button . Select Order ID 'Order 1', and select the GHG type and source you want to see. Try to answer:
+Which activity release the most amount of gas over all the time?",15,1
+Question 6,"6. The dynamic chart might show trends of the amount of gases emited over time, which of the following statements is true?",10,6
+Question 7,7. How many activities does the business process have? (Exclude the external activities),14,2
+Question 9,"9. In the business process flow chart, what does the red background in the process diagram indicate?",16,0
+Question 10,10. Which activity does not belong to external actvities?,16,0
+Question 12,"12. Select  Order Id  'Order 3' , 'ch4' for GHG type, and 'total' for Source. Try to answer:
+Which activity releases the third highest amount of CH4 among all activities (including both main activities and external activities)?",9,7
+Question 14,"14.  Select  Order Id  'Order 4' , 'co2' for GHG type, and 'total' for Source on the panel. Try to discover: 
+What percentage of the total emissions is released by Activity 4 (Prepare to Send Orders)? ",15,1
+Question 15,"15.  Select 'Order 4' for Order Id;  'co2' for GHG type;  'total' for Source; and only choose 'delivery' and 'waste' for external activities on the Panel.  Try to answer:
+What percentage of the total emissions is released by 'delivery' ?",14,2
+Question 16,"16. Select GHG type 'n2o' on the filter panel. Compare all the five orders: 
+Which activity seems to always release the least greenhouse gas?",13,3
+Question 18,"18.  Select 'co2' as GHG Type and select 'equipment' as source of GHG on the panel. Try to disvover: 
+What is the average amount of emissions for Activity 4 (Prepare to Send Orders) across five orders?"" ",15,1
